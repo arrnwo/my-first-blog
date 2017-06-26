@@ -25,7 +25,7 @@ SECRET_KEY = 'hdgh*neve^!ygwxdkpuwpq9cu_s$5=n6elw*w5$0&uk#nv2uo)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<anon_bitch>.pythonanywhere.com']
+ALLOWED_HOSTS = ['bitchanonymously.com', 'www.bitchanonymously.com', '127.0.0.1', '<anon_bitch>.pythonanywhere.com']
 
 
 # Application definition
