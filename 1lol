@@ -1,0 +1,100 @@
+[33mcommit 73ace86404eaead742b0609a22b308b91c2c7db1[m
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Fri Jun 30 15:19:41 2017 -0400
+
+    Edited post_list.html file
+
+[33mcommit 99800a28b2417bd66c1b654f9e175afef0e1af76[m
+Merge: 9cdc529 00eaa23
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Fri Jun 30 12:43:03 2017 -0400
+
+    Merge branch 'master' of https://github.com/arrnwo/my-first-blog
+
+[33mcommit 9cdc529c18769bb68b5a36f548ee6314c017888e[m
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Fri Jun 30 12:42:36 2017 -0400
+
+    actually resolved merging error in blog/models.py
+
+[33mcommit 00eaa2348e02cd775d5dbf9486b967e232afb85f[m
+Merge: fd0095a d893966
+Author: arrnwodu <arrnwodu@yahoo.com>
+Date:   Fri Jun 30 16:18:00 2017 +0000
+
+    Conflicts resolved.
+
+[33mcommit fd0095a3edce53542bc243cb75db1891f865703e[m
+Author: arrnwodu <arrnwodu@yahoo.com>
+Date:   Fri Jun 30 16:13:44 2017 +0000
+
+    added db.sqlite3 again
+
+[33mcommit d8939665fdb18af905f4d4140a03b40b3b6d4fff[m
+Merge: 1c6cc81 09b80ce
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Fri Jun 30 12:07:47 2017 -0400
+
+    adding post published date modifying views.py and modifying my-first-blog
+
+[33mcommit 1c6cc81cb29980e6d5652c26acb74e1f431eb205[m
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Fri Jun 30 11:44:58 2017 -0400
+
+    added css file in static folder
+
+[33mcommit 09b80ce20830067fdb4726b87b74cbd0376ab813[m
+Merge: 1705d07 cda86c7
+Author: arrnwodu <arrnwodu@yahoo.com>
+Date:   Thu Jun 29 18:01:50 2017 +0000
+
+    Adding db.sqlite3 yet again.
+
+[33mcommit 1705d07691f5eb6e6148a25911bef151d3e96129[m
+Author: arrnwodu <arrnwodu@yahoo.com>
+Date:   Thu Jun 29 17:44:38 2017 +0000
+
+    added modifed db.sqlite3
+
+[33mcommit cda86c759893bd6bf15de2273c5651f98c69cc09[m
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Thu Jun 29 12:51:21 2017 -0400
+
+    Modified templates to display posts from database.
+
+[33mcommit 853ff9ec47c737ecaf7fbfc558414a342983412f[m
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Mon Jun 26 22:53:38 2017 -0400
+
+    Changed the HTML for the site.
+
+[33mcommit caa8a16007a3f1cdc132f21b4c274b38f268234a[m
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Mon Jun 26 13:01:33 2017 -0400
+
+    edited WSGI file
+
+[33mcommit f37366317bd5794549607803509854fae7742b97[m
+Merge: adfcad5 a9ee311
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Mon Jun 26 12:32:15 2017 -0400
+
+    Merge branch 'master' of https://github.com/arrnwo/my-first-blog
+
+[33mcommit adfcad5aa534a5c9240db3613c4b6c725bcbc1a1[m
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Mon Jun 26 12:30:51 2017 -0400
+
+    My Django Girls app, 2nd commit (deleted db.sqlite3)
+
+[33mcommit a9ee311682a82108ca5dad90c76802e08a4e30d8[m
+Author: arrnwodu <arrnwodu@yahoo.com>
+Date:   Sun Jun 25 01:14:40 2017 +0000
+
+    fixed allowed hosts
+
+[33mcommit aee1cf9a104fd7a5c1af73ff99333b0b109b9c8b[m
+Author: arrnwo <arriana1.nwodu@famu.edu>
+Date:   Thu Jun 22 16:38:49 2017 -0400
+
+    My Django Girls app, first commit
